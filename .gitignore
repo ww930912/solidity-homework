@@ -1,0 +1,14 @@
+# 系统文件
+.DS_Store
+
+# 敏感信息：私钥、API Key
+.env
+
+# 依赖与编译产物
+node_modules
+artifacts
+cache
+out
+coverage
+coverage.json
+typechain-types
